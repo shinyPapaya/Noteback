@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "d269da7bb0e3db51",
@@ -146,6 +145,9 @@
       "audio-recorder:开始/结束录音": false
     }
   },
-  "active": "4ed9f3952649d32a",
-  "lastOpenFiles": []
+  "active": "3bb64c06efb915ca",
+  "lastOpenFiles": [
+    "C2=等待处理/2.3我在人间慌张/2023-12-01.md",
+    "C2=等待处理/2.5Mysql学习/2.5.1Mysql实训三（2023-12-1）/Mysql实训三.md"
+  ]
 }
