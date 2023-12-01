@@ -12,3 +12,16 @@
 	Port 443
 ```
 
+#### 解决中文显示问题
+```bash
+# --注释：该命令表示提交命令的时候使用utf-8编码集
+git config --global i18n.commitencoding utf-8
+
+# --注释：该命令表示日志输出时使用utf-8编码集显示
+git config --global i18n.logoutputencoding utf-8
+
+// --注释设置LESS字符集为utf-8
+export LESSCHARSET=utf-8
+
+git config --global core.quotepath false
+```
