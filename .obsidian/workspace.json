@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "577e527b69868340",
+        "id": "94e194e672454785",
         "type": "tabs",
         "children": [
           {
-            "id": "3bb64c06efb915ca",
+            "id": "4877e93aa799be5e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "C2=等待处理/2.3我在人间慌张/2023-12-02.md",
+                "file": "C2=等待处理/2.3我在人间慌张/2023-12-03.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "d269da7bb0e3db51",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "C2=等待处理/2.3我在人间慌张/2023-12-02.md",
+                "file": "C2=等待处理/2.3我在人间慌张/2023-12-03.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "C2=等待处理/2.3我在人间慌张/2023-12-02.md",
+                "file": "C2=等待处理/2.3我在人间慌张/2023-12-03.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "C2=等待处理/2.3我在人间慌张/2023-12-02.md"
+                "file": "C2=等待处理/2.3我在人间慌张/2023-12-03.md"
               }
             }
           }
@@ -146,11 +145,17 @@
       "audio-recorder:开始/结束录音": false
     }
   },
-  "active": "3bb64c06efb915ca",
+  "active": "4877e93aa799be5e",
   "lastOpenFiles": [
+    "C1=收集箱/1.1网页文章/1.1.4句子摘抄.md",
+    "C2=等待处理/2.3我在人间慌张/2023-12-03.md",
     "C1=收集箱/1.1网页文章/1.1.3待精读文章.md",
-    "C2=等待处理/2.3我在人间慌张/2023-12-02.md",
+    "C1=收集箱/1.1网页文章/1.1.4英语句子.md",
+    "C1=收集箱/1.1网页文章/1.1.1知乎文章.md",
     "C1=收集箱/1.1网页文章/1.1.2书籍.md",
+    "README.md",
+    "C2=等待处理/2.3我在人间慌张/2023-12-02.assets/IMG20231202160409.jpg",
+    "C2=等待处理/2.3我在人间慌张/2023-12-02.md",
     "C2=等待处理/2.5Mysql学习/2.5.1Mysql实训三（2023-12-1）/Mysql实训三.md",
     "C2=等待处理/2.3我在人间慌张/2023-12-01.md"
   ]
