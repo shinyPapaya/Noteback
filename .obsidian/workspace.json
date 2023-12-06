@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "94e194e672454785",
+        "id": "7bb46f9bd4706339",
         "type": "tabs",
         "children": [
           {
@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "C2=等待处理/2.3我在人间慌张/2023-12-03.md",
+                "file": "C2=等待处理/2.6Python学习/2.6.1第二章.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "d269da7bb0e3db51",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "C2=等待处理/2.3我在人间慌张/2023-12-03.md",
+                "file": "C2=等待处理/2.6Python学习/2.6.1第二章.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "C2=等待处理/2.3我在人间慌张/2023-12-03.md",
+                "file": "C2=等待处理/2.6Python学习/2.6.1第二章.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "C2=等待处理/2.3我在人间慌张/2023-12-03.md"
+                "file": "C2=等待处理/2.6Python学习/2.6.1第二章.md"
               }
             }
           }
@@ -142,13 +143,22 @@
       "graph:查看关系图谱": false,
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
-      "audio-recorder:开始/结束录音": false
+      "audio-recorder:开始/结束录音": false,
+      "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
   "active": "4877e93aa799be5e",
   "lastOpenFiles": [
-    "C1=收集箱/1.1网页文章/1.1.4句子摘抄.md",
+    "C2=等待处理/2.6Python学习/2.6.1第二章.assets/image-20231205231550055.png",
+    "C2=等待处理/2.6Python学习/2.6.1第二章.assets",
+    "C2=等待处理/2.6Python学习/img-files/Pasted image 20231205230941.png",
+    "C2=等待处理/2.6Python学习/img-files",
+    "Excalidraw/Drawing 2023-12-05 23.04.45.excalidraw.md",
+    "C2=等待处理/2.6Python学习/2.6.1第二章.md",
+    "Excalidraw/Drawing 2023-12-05 23.07.27.excalidraw.md",
+    "Excalidraw",
     "C2=等待处理/2.3我在人间慌张/2023-12-03.md",
+    "C1=收集箱/1.1网页文章/1.1.4句子摘抄.md",
     "C1=收集箱/1.1网页文章/1.1.3待精读文章.md",
     "C1=收集箱/1.1网页文章/1.1.4英语句子.md",
     "C1=收集箱/1.1网页文章/1.1.1知乎文章.md",
