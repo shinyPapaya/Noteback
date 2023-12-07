@@ -12,6 +12,24 @@
 	Port 443
 ```
 
+**报错信息：**
+
+> hint: Updates were rejected because the remote contains work that you do
+> hint: not have locally. This is usually caused by another repository pushing
+> hint: to the same ref. You may want to first integrate the remote changes
+> hint: (e.g., 'git pull ...') before pushing again.
+> hint: See the 'Note about fast-forwards' in 'git push --help' for details.
+
+**问题原因：**在不同机器上做了提交
+
+**解决方法：**
+
+> 是不是在不同的机器上上做了提交？？
+>
+> 远程分支上存在本地分支中不存在的提交，往往是多人协作开发过程中遇到的问题，可以先`fetch`再`merge`，也就是`pull`，把远程分支上的提交合并到本地分支之后再`push`。
+>
+> 如果你确定远程分支上那些提交都不需要了，那么直接`git push origin master -f`，强行让本地分支覆盖远程分支。。。
+
 #### 解决中文显示问题
 ```bash
 # --注释：该命令表示提交命令的时候使用utf-8编码集
