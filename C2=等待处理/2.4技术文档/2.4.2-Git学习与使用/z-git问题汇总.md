@@ -40,7 +40,7 @@
 
 **生成token**
 
-1. 点击Settings
+1. 点击Settings.
 2. 点击左侧的Developer settings
 3. 点击Personal access tokens(个人访问令牌)
 4. 点击Generate new token
