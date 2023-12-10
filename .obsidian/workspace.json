@@ -4,41 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "8dcd361b7ca8bddf",
+        "id": "574989fa4ec880e5",
         "type": "tabs",
         "children": [
           {
-            "id": "423a8a3c1153a1e2",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "1d66923024511dcf",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Drawing 2023-12-06 19.22.44.excalidraw.md"
-              }
-            }
-          },
-          {
-            "id": "5d01a1a6c9fd98ee",
+            "id": "f60dc030dfbba9ea",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "C2=等待处理/2.3我在人间慌张/2023-12-09.md",
+                "file": "C2=等待处理/2.1待办事件/2023-12-10事务清单.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -88,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "d269da7bb0e3db51",
@@ -105,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "C2=等待处理/2.3我在人间慌张/2023-12-09.md",
+                "file": "C2=等待处理/2.1待办事件/2023-12-10事务清单.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "C2=等待处理/2.3我在人间慌张/2023-12-09.md",
+                "file": "C2=等待处理/2.1待办事件/2023-12-10事务清单.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "C2=等待处理/2.3我在人间慌张/2023-12-09.md"
+                "file": "C2=等待处理/2.1待办事件/2023-12-10事务清单.md"
               }
             }
           }
@@ -166,13 +146,15 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "5d01a1a6c9fd98ee",
+  "active": "f60dc030dfbba9ea",
   "lastOpenFiles": [
-    "Excalidraw/Drawing 2023-12-06 19.35.40.excalidraw.md",
+    "C2=等待处理/2.1待办事件/2023-12-10事务清单.md",
+    "C2=等待处理/2.1待办事件/2023-11-30.md",
     "C2=等待处理/2.3我在人间慌张/2023-12-09.md",
+    "Excalidraw/Drawing 2023-12-06 19.22.44.excalidraw.md",
+    "Excalidraw/Drawing 2023-12-06 19.35.40.excalidraw.md",
     "quietsky.ttf",
     "liguofu.ttf",
-    "Excalidraw/Drawing 2023-12-06 19.22.44.excalidraw.md",
     "Excalidraw/Drawing 2023-12-06 19.10.08.excalidraw.md",
     "C2=等待处理/2.3我在人间慌张/2023-12-02.assets/IMG20231202160409.jpg",
     "Excalidraw/Drawing 2023-12-05 23.07.27.excalidraw.md",
