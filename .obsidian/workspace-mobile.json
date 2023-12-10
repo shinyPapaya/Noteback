@@ -11,8 +11,12 @@
             "id": "b07f6dd005a68881",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "C2=等待处理/2.3我在人间慌张/2023-12-09.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
+            "file": "C2=等待处理/2.3我在人间慌张/2023-12-09.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
+            "file": "C2=等待处理/2.3我在人间慌张/2023-12-09.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -108,7 +114,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "C2=等待处理/2.4技术文档/2.4.2-Git学习与使用/z-git问题汇总.md"
+            "file": "C2=等待处理/2.3我在人间慌张/2023-12-09.md"
           }
         }
       }
