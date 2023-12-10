@@ -18,8 +18,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "02da05167c9a7b05",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2023-12-10 16.45.37.excalidraw.md"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "C2=等待处理/2.8Git学习笔记/2.8.2Git基本操作.md",
+                "file": "Excalidraw/Drawing 2023-12-10 16.45.37.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "C2=等待处理/2.8Git学习笔记/2.8.2Git基本操作.md",
+                "file": "Excalidraw/Drawing 2023-12-10 16.45.37.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "C2=等待处理/2.8Git学习笔记/2.8.2Git基本操作.md"
+                "file": "Excalidraw/Drawing 2023-12-10 16.45.37.excalidraw.md"
               }
             }
           }
@@ -146,9 +157,12 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "9c1ae47ccf22e329",
+  "active": "02da05167c9a7b05",
   "lastOpenFiles": [
+    "C2=等待处理/2.8Git学习笔记/Imgs/2.8.4Git远程仓库/image-20231210165054688.png",
+    "C2=等待处理/2.8Git学习笔记/Imgs/2.8.4Git远程仓库",
     "C2=等待处理/2.8Git学习笔记/2.8.2Git基本操作.md",
+    "Excalidraw/Drawing 2023-12-10 16.45.37.excalidraw.md",
     "C2=等待处理/2.8Git学习笔记/2.8.2Git基本操作.assets/image-20231210130054808.png",
     "C2=等待处理/2.8Git学习笔记/2.8.2Git基本操作.assets",
     "C2=等待处理/2.8Git学习笔记/img-files/Pasted image 20231210130023.png",
