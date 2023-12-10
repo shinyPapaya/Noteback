@@ -9,6 +9,11 @@
 *android*
 
 
+<<<<<<< HEAD
 computer1
 Hello World!
 hahah
+=======
+computer
+这是在pc分支上
+>>>>>>> pc
