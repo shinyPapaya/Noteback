@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "C2=等待处理/2.1待办事件/2023-12-10事务清单.md",
+                "file": "C1=收集箱/1.1网页文章/1.1.3待精读文章.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "C2=等待处理/2.1待办事件/2023-12-10事务清单.md",
+                "file": "C1=收集箱/1.1网页文章/1.1.3待精读文章.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "C2=等待处理/2.1待办事件/2023-12-10事务清单.md",
+                "file": "C1=收集箱/1.1网页文章/1.1.3待精读文章.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "C2=等待处理/2.1待办事件/2023-12-10事务清单.md"
+                "file": "C1=收集箱/1.1网页文章/1.1.3待精读文章.md"
               }
             }
           }
@@ -148,6 +148,7 @@
   },
   "active": "f60dc030dfbba9ea",
   "lastOpenFiles": [
+    "C2=等待处理/2.6Python学习/2.6.1第二章.md",
     "C2=等待处理/2.1待办事件/2023-12-10事务清单.md",
     "C2=等待处理/2.1待办事件/2023-11-30.md",
     "C2=等待处理/2.3我在人间慌张/2023-12-09.md",
@@ -159,7 +160,6 @@
     "C2=等待处理/2.3我在人间慌张/2023-12-02.assets/IMG20231202160409.jpg",
     "Excalidraw/Drawing 2023-12-05 23.07.27.excalidraw.md",
     "Excalidraw/Drawing 2023-12-05 23.04.45.excalidraw.md",
-    "C2=等待处理/2.6Python学习/2.6.1第二章.md",
     "C2=等待处理/2.6Python学习/2.6.1第二章.assets/image-20231205231550055.png",
     "C2=等待处理/2.6Python学习/2.6.1第二章.assets",
     "C2=等待处理/2.6Python学习/img-files/Pasted image 20231205230941.png",
