@@ -11,8 +11,12 @@
             "id": "b07f6dd005a68881",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "C2=等待处理/2.3我在人间慌张/2023-12-09.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
+            "file": "C2=等待处理/2.3我在人间慌张/2023-12-09.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
+            "file": "C2=等待处理/2.3我在人间慌张/2023-12-09.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -108,7 +114,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "C2=等待处理/2.4技术文档/2.4.2-Git学习与使用/z-git问题汇总.md"
+            "file": "C2=等待处理/2.3我在人间慌张/2023-12-09.md"
           }
         }
       }
@@ -127,6 +133,9 @@
   },
   "active": "559b6c930039e049",
   "lastOpenFiles": [
+    "C2=等待处理/2.4技术文档/2.4.2-Git学习与使用/z-git问题汇总.md",
+    "C2=等待处理/2.4技术文档/2.4.2-Git学习与使用/1.git 的必要配置.md",
+    "C2=等待处理/2.3我在人间慌张/2023-12-7.md",
     "README.md",
     "Excalidraw/Drawing 2023-12-06 19.22.44.excalidraw.md",
     "Excalidraw/Drawing 2023-12-06 19.35.40.excalidraw.md",
@@ -135,8 +144,6 @@
     "C2=等待处理/2.6Python学习/img-files/Pasted image 20231205230941.png",
     "C2=等待处理/2.6Python学习/2.6.1第二章.assets/image-20231205231550055.png",
     "C2=等待处理/2.5Mysql学习/2.5.2第二章/2.1SQL通用语法及分类.md",
-    "C2=等待处理/2.4技术文档/2.4.2-Git学习与使用/z-git问题汇总.md",
-    "C2=等待处理/2.4技术文档/2.4.2-Git学习与使用/1.git 的必要配置.md",
     "C2=等待处理/2.4技术文档/2.4.2-Git学习与使用/z-git问题汇总.assets",
     "C2=等待处理/2.4技术文档/2.4.1-Termux使用手册/2.4.1-Termux基本使用.md",
     "C2=等待处理/2.3我在人间慌张/2023-12-02.assets/IMG20231202160409.jpg",
@@ -148,7 +155,6 @@
     "C2=等待处理/2.5Mysql学习/2.5.2第二章",
     "C2=等待处理/2.4技术文档/2.4.2-Git学习与使用",
     "C2=等待处理/2.4技术文档/2.4.1-Termux使用手册",
-    "C2=等待处理/2.3我在人间慌张/2023-12-7.md",
     "C2=等待处理/2.3我在人间慌张/2023-12-01.md",
     "C2=等待处理/2.3我在人间慌张/2023-12-03.md",
     "C2=等待处理/2.3我在人间慌张/2023-12-02.md",
