@@ -8,29 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "7c6f544d8ce7a9ac",
+            "id": "fd32e0cf04db08ee",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "C2=等待处理/2.3我在人间慌张/2023-12-17.md",
+                "file": "C2=等待处理/2.8Termux折腾日记/2.8.1Termux基础使用.md",
                 "mode": "source",
                 "source": false
               }
             }
-          },
-          {
-            "id": "fd32e0cf04db08ee",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Drawing 2023-12-17 15.45.34.excalidraw.md"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -96,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing 2023-12-17 15.45.34.excalidraw.md",
+                "file": "C2=等待处理/2.8Termux折腾日记/2.8.1Termux基础使用.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Drawing 2023-12-17 15.45.34.excalidraw.md",
+                "file": "C2=等待处理/2.8Termux折腾日记/2.8.1Termux基础使用.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing 2023-12-17 15.45.34.excalidraw.md"
+                "file": "C2=等待处理/2.8Termux折腾日记/2.8.1Termux基础使用.md"
               }
             }
           }
@@ -158,6 +147,9 @@
   },
   "active": "fd32e0cf04db08ee",
   "lastOpenFiles": [
+    "C2=等待处理/2.3我在人间慌张/2023-12-23.md",
+    "C2=等待处理/2.8Termux折腾日记/2.8.1Termux基础使用.md",
+    "C2=等待处理/2.8Termux折腾日记",
     "C2=等待处理/2.3我在人间慌张/2023-12-17.md",
     "Excalidraw/Drawing 2023-12-17 15.45.34.excalidraw.md",
     "C2=等待处理/2.1待办事件/2023-12-10事务清单.md",
@@ -188,7 +180,6 @@
     "Excalidraw/Drawing 2023-12-05 23.07.27.excalidraw.md",
     "Excalidraw/Drawing 2023-12-05 23.04.45.excalidraw.md",
     "C2=等待处理/2.6Python学习/2.6.1第二章.assets/image-20231205231550055.png",
-    "C2=等待处理/2.6Python学习/2.6.1第二章.assets",
     "C2=等待处理/2.6Python学习/img-files/Pasted image 20231205230941.png",
     "C2=等待处理/2.3我在人间慌张/2023-12-03.md",
     "C1=收集箱/1.1网页文章/1.1.4句子摘抄.md",
@@ -197,7 +188,6 @@
     "C1=收集箱/1.1网页文章/1.1.2书籍.md",
     "README.md",
     "C2=等待处理/2.3我在人间慌张/2023-12-02.md",
-    "C2=等待处理/2.5Mysql学习/2.5.1Mysql实训三（2023-12-1）/Mysql实训三.md",
-    "C2=等待处理/2.3我在人间慌张/2023-12-01.md"
+    "C2=等待处理/2.5Mysql学习/2.5.1Mysql实训三（2023-12-1）/Mysql实训三.md"
   ]
 }
